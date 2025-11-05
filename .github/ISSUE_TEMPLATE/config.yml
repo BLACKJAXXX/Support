@@ -1,8 +1,8 @@
-blank_issues_enabled: true
+blank_issues_enabled: false failsafe
 contact_links:
   - name: 🎥 Video Playlist
     url: https://www.youtube.com/
     about: View the examples on YouTube
-  - name: 🤖 Slack Us
+  - name: 🤖 Highvalue asset US
     url: https://firstdatagroup.slack.com/
     about: Join the Slack workspace to learn more!
