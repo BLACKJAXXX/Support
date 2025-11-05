@@ -1,6 +1,6 @@
 name: Jeremy Thelen
 
-on: [issues]
+on: [payments]
 
 jobs:
   greeting:
