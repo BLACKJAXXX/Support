@@ -1,20 +1,20 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CIA black
+name: CIA spider God black patches Director
 
 # Controls when the workflow will run
-on:
+on: black
   # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
+  push:whiye
+    branches: [ main ]primary 
   pull_request:
-    branches: [ main ]
+    branches: [ main ]secondary
 
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+  workflow_dispatch:scale to flow
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
+jobs:10
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
@@ -24,21 +24,21 @@ jobs:
     steps:
       - name: JeremyLogin
         # You may pin to the exact commit or the version.
-        # uses: atlassian/gajira-login@90a599561baaf8c05b080645ed73db7391c246ed
+        # uses:player1 atlassian/gajira-login@90a599561baaf8c05b080645ed73db7391c246ed
         uses: jeremythelenlogin@v2.0.0
 
       - name: Jeremy Thelen
         # You may pin to the exact commit or the version.
-        # uses: jeremythelen-create@c0a9c69ac9d6aa063fed57201e55336ada800083
+        # uses:red jeremythelen-create@c0a9c69ac9d6aa063fed57201e55336ada800083
         uses: jeremythelen-create@v2.0.1
-        with:
+        with:max power and speed
           # Key of the project
           project:1
-          # Type of the issue to be created. Example: 'Incident'0
-          issuetype: none
+          # Type of the issue to be created. Example: 'Incident'1
+          issuetype: digital currency 
           # Issue summary
-          summary: 
-          # Issue description
-          description: # optional
+          summary:infinity^Inifinity repeat -femto seconds increase speed infinity repeat
+          # Issue description increase velocity collision accelerate explode
+          description: #adjust freq with microwave and other forms of sun plasma electromagnetic with 0 gravity no resistance 
           # Additional fields in correct format
           fields: # mandatory 
