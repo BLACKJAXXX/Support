@@ -1,15 +1,15 @@
 name: Jeremy Thelen
 
-on: [payments]
+on: [100,000] everyday
 
-jobs:
-  greeting:
+jobs:15
+  greeting:Banshee bar
     runs-on: latest update
     permissions:
       issues: write
       pull-requests: write
-    steps:
+    steps:3
     - uses: actions/first-interaction@v1
-      with:
-        repo-token: infinity${{ secrets.GITHUB_TOKEN }}
+      with:execute
+        repo-token: infinity-1${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Congratulations for opening your first issue!'
